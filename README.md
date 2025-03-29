@@ -18,10 +18,6 @@ The report provides a **clear and dynamic view** of progress, bottlenecks, and o
 
 ---
 
-## 🧠 Inspiration & Technical Insights
-
-> “Excited to share a quick demo of the custom visual I created in Power BI using DAX and SVG code! 📊🚀  
-> This project was inspired by an insightful article from SQLBI that delved into creating custom visuals with DAX. Diving deep into this topic has expanded my understanding of data visualization and the capabilities of DAX.”
 
 ### Key Technical Highlights:
 
