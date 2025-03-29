@@ -41,7 +41,7 @@ The report provides a **clear and dynamic view** of progress, bottlenecks, and o
 
 ## 📷 Screenshot Preview
 
-![Association Onboarding Tracker Screenshot](https://github.com/priyankfeb/PBI-Assoc_Onboarding/blob/e8ba944ec4f8899433fc0dac355f7ff7dc0baf1c/image.png)
+![Association Onboarding Tracker Screenshot](https://github.com/priyankfeb/PBI-Assoc_Onboarding/blob/e8ba944ec4f8899433fc0dac355f7ff7dc0baf1c/image.jpg)
 
 ---
 
